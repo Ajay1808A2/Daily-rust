@@ -1,4 +1,4 @@
-# Daily Leetcode
+# Daily Rust
 
 My Journey of learning Rust daily
 
