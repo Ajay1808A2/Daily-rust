@@ -7,3 +7,5 @@ Day 02: Simple Calculator
 Day 03: Two Sum problem (for loops)  
 Day 04: Palindrome problem  
 Day 05: In-order Tree Traversal  
+Day 06: Sqrt (binary search)  
+
